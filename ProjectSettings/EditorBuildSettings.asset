@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/00_BeginMenu.unity
+    guid: 3d8926de3ec66484bb1c94decfa5c9ef
+  - enabled: 1
+    path: Assets/Scenes/01_SelectMonsterMenu.unity
+    guid: 78b766ecfbc994938b9dafa52b80c2e2
+  - enabled: 1
+    path: Assets/Scenes/02_FightMenu.unity
+    guid: 23904772f41f5624bbd18c0f6b0b1769
+  m_configObjects: {}
