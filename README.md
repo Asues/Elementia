@@ -24,9 +24,7 @@ UI Elements: **Awais Khan**
 -------------------------------------------------
 ### Demo
 
-```html
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d4DMonYFu10" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-```
+[Youtube](https://youtu.be/d4DMonYFu10)
 
 ------
 
