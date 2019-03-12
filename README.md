@@ -11,15 +11,17 @@
 
 **TU Ilmenau - 2019 @ Germany**
 
-### The Game Development project of the following Students: 
+### The Game Development project of the following Students: **
 
-Programme: **Hong Ma**
+**Awais Khan** (UI Elements)
 
-Game Document/Logo:  **Cesar Quintero Arias**
+**Cesar Quintero Arias** (Game Document/Logo)
 
-Game Disign: **Sebastian Ribecky**
+**Hong Ma** (Programme)
 
-UI Elements: **Awais Khan**
+**Sebastian Ribecky** (Game Disign)
+
+**Game Document file is in "Documentation" Folder**
 
 -------------------------------------------------
 ### Demo
